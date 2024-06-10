@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from 'react';
+import axios from 'axios';
 
 function App() {
+
+  const url = 'http://api.weatherapi.com/v1/current.json?key=62143c60b90d4257891103525241006&q=dallas'
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <h1>Hello</h1>
     </div>
   );
 }
