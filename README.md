@@ -15,7 +15,7 @@ This project is a simple weather app by city using React and weather API.
 * https://douglasmarsalis.github.io/weather_app_react_basic/
 
 ## Deployed site image
-
+![Screenshot-weather_app_react_basic](https://github.com/douglasmarsalis/weather_app_react_basic/assets/112460009/c9c5309f-d069-423d-a221-bd96b8097497)
 
 
 ## License
