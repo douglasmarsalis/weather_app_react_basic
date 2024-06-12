@@ -11,8 +11,12 @@ This project is a simple weather app by city using React and weather API.
 * To build the app: npm create-react-app weather_app_react_basic 
 * To start development server: npm start
 
-## Deployed site:
-*
+## Deployed site
+* https://douglasmarsalis.github.io/weather_app_react_basic/
+
+## Deployed site image
+
+
 
 ## License
 MIT License
