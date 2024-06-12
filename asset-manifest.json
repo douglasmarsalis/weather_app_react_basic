@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather_app_react_basic/static/css/main.8d8bc452.css",
+    "main.js": "/weather_app_react_basic/static/js/main.93f4cfd5.js",
+    "static/media/samuel-ferrara-1527pjeb6jg-unsplash.jpg": "/weather_app_react_basic/static/media/samuel-ferrara-1527pjeb6jg-unsplash.4cb6966621051f1e6a33.jpg",
+    "index.html": "/weather_app_react_basic/index.html",
+    "main.8d8bc452.css.map": "/weather_app_react_basic/static/css/main.8d8bc452.css.map",
+    "main.93f4cfd5.js.map": "/weather_app_react_basic/static/js/main.93f4cfd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8bc452.css",
+    "static/js/main.93f4cfd5.js"
+  ]
+}
