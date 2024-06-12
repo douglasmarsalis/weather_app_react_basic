@@ -1,3 +1,5 @@
+## [![License: APACHE2.0](https://img.shields.io/badge/License:_MIT-orange)](https://opensource.org/license/mit/)
+
 # Description
 
 This project is a simple weather app by city using React and weather API.
